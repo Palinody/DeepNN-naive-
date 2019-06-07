@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1554083303 source:c:\users\lukar\desktop\c_cpp_projects\cpp\projects\matrix\matrix.cpp
+	<iostream>
+	"Matrix.h"
+
+1558901193 source:c:\users\lukar\desktop\c_cpp_projects\cpp\projects\matrix\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<map>
+	<fstream>
+	<math.h>
+	"Matrix.h"
+	"FCANN.h"
+
+1554242388 c:\users\lukar\desktop\c_cpp_projects\cpp\projects\matrix\matrix.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<ctime>
+	<random>
+	<chrono>
+	<algorithm>
+	<iterator>
+
+1549117227 c:\users\lukar\desktop\c_cpp_projects\cpp\projects\matrix\matrix.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	"Matrix.h"
+
+1549042789 source:c:\users\lukar\desktop\c_cpp_projects\cpp\projects\matrix\matrix.h
+	<vector>
+	<cstdlib>
+
+1558901665 source:c:\users\lukar\desktop\c_cpp_projects\cpp\projects\matrix\fcann.cpp
+	"FCANN.h"
+
+1553877892 c:\users\lukar\desktop\c_cpp_projects\cpp\projects\matrix\fcann.h
+	<string>
+	<map>
+	<math.h>
+	"Matrix.h"
+
